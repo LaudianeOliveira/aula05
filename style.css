@@ -1,0 +1,22 @@
+h1{
+    color: black;
+    font-weight: bolder;
+}
+body{
+    background-color: #ff6f9c;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    color: whitesmoke;
+}
+
+form{
+    color: whitesmoke;
+}
+
+.divcharge{
+    Background-color: lightblue;
+    Width: 150px;
+    Height: 80px;
+    }
